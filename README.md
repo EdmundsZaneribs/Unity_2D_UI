@@ -14,4 +14,4 @@ Unity 2D projekts, kas demonstrē UI elementu lietojumu.
 - [ ] Rigidbody un Collider komponenšu lietojums
 - [ ] Sagatavošana Windows platformai
 
-![MR. Brean](https://i.pinimg.com/originals/57/74/c7/5774c7734711611fc5f3c0731af95be4.png)
+![MR. Brean](https://static.wikia.nocookie.net/mrbean/images/1/10/Mr_Bean_Casual_Outfit.png/revision/latest/scale-to-width-down/250?cb=20230601104004)
